@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+	<head>
+		<!-- Código baseado no tutorial do GreatStack no YouTube - Link do tutorial: https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9 -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>Previsão do Tempo</title>
+		
+		<meta name="description" content="Aplicativo de previsão do tempo. Verifica o clima atual para diferentes cidades.">
+		<meta name="author" content="JeffJobs, Jeffferson Camargo, JeffLavish">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+	</head>
+
+	<body>
+		<!-- Main Card -->
+		<main class="weather-card">
+			<!-- Section Search -->
+			<section class="weather-search">
+				<input type="text" placeholder="Selecione a Cidade" spellcheck="false">
+				<button><img src="img/search.png" alt="Ícone de busca" /></button>
+			</section>
+
+			<!-- Section Error -->
+			<section class="weather-error">
+				<p>Nome da Cidade Inválido</p>
+			</section>
+
+			<!-- Section Info -->
+			<section class="weather-info">
+				<img src="img/rain.png" class="weather-icon" alt="Ícone de clima" />
+				<h1 class="weather-temp">22°C</h1>
+				<h2 class="weather-city">São Paulo</h2>
+
+				<!-- Details -->
+				<div class="weather-details">        
+					<div class="weather-detail-item">
+						<img src="img/humidity.png" alt="Ícone de umidade" />
+						<div>
+							<p class="weather-humidity">50 %</p>
+							<p>Umidade</p>
+						</div>    
+					</div>
+
+					<div class="weather-detail-item">
+						<img src="img/wind.png" alt="Ícone de vento" />
+						<div>
+							<p class="weather-wind">15 km/h</p>
+							<p>Vento</p>
+						</div>    
+					</div>            
+				</div>    
+			</section>
+		</main>
+
+		<script src="js/script.js" type="text/javascript"></script>    
+	</body>    
+
+</html>
