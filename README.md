@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório **30 Projetos em 30 Dias**, onde você encontrará
 
 ## 📚 Descrição
 
-Este repositório é um diário de bordo do meu aprendizado e progresso em desenvolvimento web, focado em JavaScript, HTML e CSS. Cada projeto aqui documentado foi criado com base nos tutoriais da GreatStack, incorporando minhas próprias modificações e melhorias em alguns casos.
+Este repositório é um diário de bordo do meu aprendizado e progresso em desenvolvimento web, focado em JavaScript, HTML e CSS. Cada projeto aqui documentado foi criado com base nos tutoriais do GreatStack, incorporando minhas próprias modificações e melhorias em alguns casos.
 
 ### Objetivo
 
@@ -20,13 +20,13 @@ A ideia por trás deste repositório é dupla:
 
 ## 🗂 Estrutura do Repositório
 
-O repositório está organizado em pastas numeradas de `dia1` a `dia30`, cada uma contendo um projeto correspondente:
+O repositório está organizado em pastas numeradas de `dia-1` a `dia-30`, cada uma contendo um projeto correspondente:
 
-- `dia1/` - Projeto 1
-- `dia2/` - Projeto 2
-- `dia3/` - Projeto 3
+- `dia-1/` - Projeto 1
+- `dia-2/` - Projeto 2
+- `dia-3/` - Projeto 3
 - ...
-- `dia30/` - Projeto 30
+- `dia-30/` - Projeto 30
 
 Cada pasta contém o código-fonte e arquivos relacionados ao projeto desenvolvido naquele dia específico.
 
@@ -36,8 +36,8 @@ Abaixo está a lista dos 30 projetos, cada um com o link para o diretório corre
 
 | Dia    | Projeto              | Link do Vídeo                                                                        |
 | ------ | -------------------- | ------------------------------------------------------------------------------------ |
-| 1      | [Weather-App]()      | [Vídeo 1](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9)      |
-| 2      | [To-Do-List]()       | [Vídeo 2](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9)      |
+| 1      | [Weather App](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-1/weather-app)               | [Vídeo 1](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
+| 2      | [To-Do List]()       | [Vídeo 2](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9)      |
 
 *Nota: Vou atualizar esta tabela à medida que avançar nos projetos.*
 
@@ -79,7 +79,7 @@ Os tutoriais e a inspiração para os projetos são de autoria do canal [GreatSt
 
 ## 📜 Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/JeffJobs/30-projetos-em-30-dias/blob/main/LICENSE.md) para detalhes.
 
 ## 📬 Contato
 
@@ -89,4 +89,4 @@ Se tiver qualquer dúvida ou sugestão, sinta-se à vontade para me contatar:
 
 ## 🌟 Contribuindo
 
-Obrigado por visitar meu repositório! Se você achar meu trabalho útil ou inspirador, por favor, considere dar uma estrela ⭐ e caso queira, fazer um fork 🍴.
+Obrigado por visitar meu repositório! Se você achar meu trabalho útil ou inspirador, por favor, considere dar uma estrela ⭐ e se necessário, fazer um fork 🍴.
