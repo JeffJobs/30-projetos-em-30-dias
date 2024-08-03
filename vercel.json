@@ -1,6 +1,0 @@
-{
-    "rewrites": [
-        { "source": "/dia-1", "destination": "/dia-1/weather-app/index.html" },
-        { "source": "/dia-2", "destination": "/dia-2/to-do-list/index.html" }
-    ]
-  }
