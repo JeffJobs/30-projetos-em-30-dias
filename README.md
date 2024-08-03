@@ -34,10 +34,10 @@ Cada pasta contém o código-fonte e arquivos relacionados ao projeto desenvolvi
 
 Abaixo está a lista dos 30 projetos, cada um com o link para o diretório correspondente no GItHub e o vídeo correspondente no canal GreatStack. Esta lista serve para orientar você a encontrar facilmente o o projeto e o tutorial do projeto que deseja explorar.
 
-| Dia    | Projeto              | Link do Vídeo                                                                        |
-| ------ | -------------------- | ------------------------------------------------------------------------------------ |
-| 1      | [Weather App](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-1/weather-app)               | [Vídeo 1](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
-| 2      | [To-Do List]()       | [Vídeo 2](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9)      |
+| Dia    | Projeto                                                                                       | Link do Vídeo 
+| ------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1      | [Weather App](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-1/weather-app) | [Vídeo 1](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
+| 2      | [To-Do List](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-2/to-do-list)   | [Vídeo 2](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
 
 *Nota: Vou atualizar esta tabela à medida que avançar nos projetos.*
 
