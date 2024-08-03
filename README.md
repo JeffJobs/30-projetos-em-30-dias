@@ -79,7 +79,7 @@ Os tutoriais e a inspiração para os projetos são de autoria do canal [GreatSt
 
 ## 📜 Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/JeffJobs/30-projetos-em-30-dias/blob/main/LICENSE.md) para detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/JeffJobs/30-projetos-em-30-dias/blob/main/LICENSE) para detalhes.
 
 ## 📬 Contato
 
