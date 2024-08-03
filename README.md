@@ -21,8 +21,8 @@ Abaixo está a lista dos 30 projetos, cada um com o link para o diretório corre
 
 | Dia    | Projeto                                                                                       | Site                                 | Tutorial
 | ------ | --------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-| 1      | [Weather App](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-1/weather-app) | [Live Demo]() | [Vídeo](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
-| 2      | [To-Do List](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-2/to-do-list)   | [Live Demo]() | [Vídeo](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
+| 1      | [Weather App](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-1/weather-app) | [Live Demo](https://30-projetos-em-30-dias-weather-app.vercel.app) | [Vídeo](https://youtu.be/MIYQR-Ybrn4?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
+| 2      | [To-Do List](https://github.com/JeffJobs/30-projetos-em-30-dias/tree/main/dia-2/to-do-list)   | [Live Demo](https://30-projetos-em-30-dias-to-do-list.vercel.app) | [Vídeo](https://youtu.be/G0jO8kUrg-I?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9) |
 
 *Nota: Vou atualizar esta tabela à medida que avançar nos projetos.*
 
